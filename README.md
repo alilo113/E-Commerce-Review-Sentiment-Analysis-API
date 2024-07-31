@@ -16,7 +16,7 @@ This API analyzes the sentiment of customer reviews and generates PDF reports wi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/alilo113/Emotional-Sentiment-Analysis-API-.git
    ## Endpoints
 
 ### 1. Analyze a Single Review
